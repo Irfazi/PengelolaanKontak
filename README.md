@@ -226,7 +226,7 @@ private void btnImporActionPerformed(java.awt.event.ActionEvent evt) {
     }  
 
 # 6. Tampilan Pada Saat Aplikasi Di Jalankan
-![](https://github.com/firaaaa10/Latihan3_AplikasiPengelolaanKontak/blob/main/Cuplikan%20layar%202024-11-13%20231510.png)
+![](https://github.com/Irfazi/PengelolaanKontak/blob/main/Screenshot%202024-11-17%20164345.png)
 
 ## Indikator Penilaian:
 
